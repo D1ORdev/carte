@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    font-family: "Bitter","Montserrat";
+    background-color: rgb(255,255,255,1);
+}
+.container
+{
+    max-width: 1440px;
+    padding: 20px;
+}
+
+header{
+
+padding: 20px;
+}
+
+.crnavbar{
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.crright{
+    font-family: "Bitter";
+    font-weight: 400;
+    display: flex;
+    gap:40px;
+
+}
+.ctitles{
+    padding: 20px;
+    font-family: "Bitter";
+    font-weight: 400;
+    font-size: 14px;
+    color:rgba(50, 46, 41, 1);
+}
+.icons{
+    display: flex;
+    gap: 50px;
+    padding:20px;
+}
+.iconsbtn{
+    background-color:rgba(248, 243, 236, 1);
+    width: 91px;
+    height: 41px;
+    border-radius: 12px;
+    border-style: hidden;
+    justify-content: center;
+    color:rgba(50, 46, 41, 1);
+    font-family: "Bitter";
+    font-weight: 400;
+    font-size: 14px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+
+#intro{
+    padding: 20px;
+    margin-top: 80px;
+    background-image: url("/assets/images/rasm.png");
+}
