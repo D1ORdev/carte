@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-
+git 
 
 *{
+    background-color: rgba(255, 255, 255, 1);
+    
     box-sizing: border-box;
     font-family: "Bitter","Montserrat";
-    background-color: rgb(255,255,255,1);
 }
 .container
 {
@@ -18,28 +19,30 @@ padding: 20px;
 }
 
 .crnavbar{
+    margin-top: 60px;
+    width: 100px;
     margin-left: 100px;
     display: flex;
     justify-content: space-between;
 }
 
 .crright{
-    font-family: "Bitter";
-    font-weight: 400;
     display: flex;
-    gap:40px;
+    gap:25px;
+    margin-right: -1100px;
 
 }
 .ctitles{
     padding: 20px;
-    font-family: "Bitter";
-    font-weight: 400;
     font-size: 14px;
-    color:rgba(50, 46, 41, 1);
+    font-family:"Bitter";
+    font-weight: 580;
+    color: #322E29;
 }
-.icons{
+
+.cricons{
     display: flex;
-    gap: 50px;
+    gap: 40px;
     padding:20px;
 }
 .iconsbtn{
@@ -51,7 +54,7 @@ padding: 20px;
     justify-content: center;
     color:rgba(50, 46, 41, 1);
     font-family: "Bitter";
-    font-weight: 400;
+    font-weight: 550;
     font-size: 14px;
     -webkit-border-radius: 12px;
     -moz-border-radius: 12px;
@@ -59,8 +62,83 @@ padding: 20px;
     -o-border-radius: 12px;
 }
 
-#intro{
+.container{
     padding: 20px;
-    margin-top: 80px;
+    width: 1140px;
+    height: 510px;
+    margin-top: 78px;
+    margin-left: 110px;
+    backdrop-filter: blur(48px);
+    size: 1280px;
     background-image: url("/assets/images/rasm.png");
+}
+.itexts{
+    padding: 20px;
+}
+.itextstitle{
+    width: 334px;
+    height: 112px;    
+    margin-top: 160px;
+    margin-left: 80px;
+    gap: 24px;    
+    font-family: "Bitter";
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #322E29;        
+}
+.itext{
+    width: 341px;
+    height: 96px;
+    font-family: "Bitter";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.introbtn{
+    width: Hug (127px)px;
+    height: Hug (40px)px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 12px;    
+    color: #ffffff;
+    background-color: #D3A562;
+    border-style: hidden;
+    margin-top: 15px;
+    margin-left: 80px;
+}
+#panel{
+    display: flex;
+    border-color:#D3A562;
+    background-color: #FDFBF9;
+    width: 727px;
+    height: 64px;
+    margin-left: -0.5px;
+    border-radius: 32px;
+    border: 1px;    
+    border-radius: 32px;
+}
+.ppanel{
+    display: flex;
+
+}
+.pbtn{
+    width:150px;
+    height: 40px;
+    margin-top: 12px;
+    margin-left: 611.5px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 12px;
+    color: #FFFFFF;
+    background-color: #D3A562;
+    border-style: hidden;
+    font-family: "Bitter";
+    font-weight: 400;
+    
 }
