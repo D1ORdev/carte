@@ -14,7 +14,7 @@ git
 }
 
 header{
-
+margin-left: 180px;
 padding: 20px;
 }
 
@@ -66,8 +66,7 @@ padding: 20px;
     padding: 20px;
     width: 1140px;
     height: 510px;
-    margin-top: 78px;
-    margin-left: 110px;
+    margin-left: 300px;
     backdrop-filter: blur(48px);
     size: 1280px;
     background-image: url("/assets/images/rasm.png");
@@ -112,21 +111,41 @@ padding: 20px;
     margin-top: 15px;
     margin-left: 80px;
 }
-#panel{
+#poisk{
+
+ 
+    margin-left:180px;
+  
+}
+.panel{
+    width: 900px;
+    padding:15px;
+    height:65px;
+    margin-top: 100px;
+    margin-left: 250px;
     display: flex;
+    border-radius:30px;
+    border:1px;
+    border-style: solid;
     border-color:#D3A562;
     background-color: #FDFBF9;
-    width: 727px;
-    height: 64px;
-    margin-left: -0.5px;
-    border-radius: 32px;
-    border: 1px;    
-    border-radius: 32px;
+   
+ img{
+        padding-top:15px;
+        width: 30px;
+        height: 30px;
+        margin-right:40px;
+      } 
+       h5{
+         width: 300px;
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(136, 140, 148, 1);
+    }
+   
 }
-.ppanel{
-    display: flex;
 
-}
 .pbtn{
     width:150px;
     height: 40px;
@@ -141,4 +160,42 @@ padding: 20px;
     font-family: "Bitter";
     font-weight: 400;
     
+}
+
+#card{
+    margin-top:80px;
+    margin-left:20px;
+}
+.all{
+    display: block;
+}
+.first{
+    
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h4{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h5{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr{
+    border:1px solid rgba(211, 165, 98, 1);
+   
 }
