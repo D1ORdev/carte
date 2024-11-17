@@ -199,3 +199,272 @@ padding: 20px;
     border:1px solid rgba(211, 165, 98, 1);
    
 }
+
+.scnd{
+    
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h4{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h5{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.scndhr{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+
+#card{
+    margin-top:80px;
+    margin-left:20px;
+}
+.all{
+    display: block;
+}
+.first{
+    
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h4{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h5{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+
+.first1{
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h3{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr1{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+
+.first2{
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h3{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr2{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+
+.first3{
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h3{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+
+.firsthr3{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+
+.first4{
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h3{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr4{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+
+.first5{
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h3{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr5{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+.verticalline{
+    width: 2px;
+    height: 1430px;
+    background-color:rgba(189, 189, 189, 1);
+    margin-left: 880px;
+    margin-top: -1430px;
+}
+#recards{
+    margin-left: 980px;
+    margin-top: -1450px;
+}
+.reall{
+    display: block;
+}
+.refirst{
+    width: 770px;
+    display: flex;
+    gap:40px;
+   
+}
+.refirsttexts{
+  
+    h5{ 
+        font-family: "Bitter";
+        font-style: italic;
+        font-weight: 400;
+        font-size: 13px;
+        color:rgba(211, 165, 98, 1);
+    }
+    h6{ margin-top: -5px;
+        font-weight: 600;
+        font-size: 32px;
+        font-family: "Montserrat";
+        color:rgba(50, 46, 41, 1);
+    }
+    p{
+        margin-top: -5px;
+        font-family: "Bitter";
+        font-size: 13px;
+        font-weight: 400;
+        color:rgba(50, 46, 41, 1);
+    }
+}
+.refirsthr{
+width:900px;
+}
+.rasmniki{
+    margin-left: -450px;
+}
