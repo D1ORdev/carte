@@ -448,23 +448,78 @@ padding: 20px;
         font-size: 13px;
         color:rgba(211, 165, 98, 1);
     }
-    h6{ margin-top: -5px;
+    h6{width: 344.5px;
+        height: 160px;        
+        margin-top: -5px;
         font-weight: 600;
         font-size: 32px;
         font-family: "Montserrat";
         color:rgba(50, 46, 41, 1);
     }
     p{
-        margin-top: -5px;
+        margin-top: -65px;
         font-family: "Bitter";
         font-size: 13px;
         font-weight: 400;
-        color:rgba(50, 46, 41, 1);
+        color:#000000;
     }
 }
 .refirsthr{
-width:900px;
+width:685px;
+border-style: solid;
+color: #D3A562;
+margin-top: 35px;
 }
 .rasmniki{
-    margin-left: -450px;
+    margin-left: -385px;
+    margin-top: 10px;
+}
+
+.rescnd{
+    width: 770px;
+    display: flex;
+    gap:40px;
+}
+
+.rescndtexts{
+    h5{ 
+        font-family: "Bitter";
+        font-style: italic;
+        font-weight: 400;
+        font-size: 13px;
+        color:rgba(211, 165, 98, 1);
+    }
+    h6{width: 344.5px;
+        height: 160px;        
+        margin-top: -5px;
+        font-weight: 600;
+        font-size: 32px;
+        font-family: "Montserrat";
+        color:rgba(50, 46, 41, 1);
+    }
+    p{
+        margin-top: -65px;
+        font-family: "Bitter";
+        font-size: 13px;
+        font-weight: 400;
+        color:#000000;
+    }
+}
+.rescndhr{
+    width:685px;
+    border-style: solid;
+    color: #D3A562;
+    margin-top: 35px;    
+}
+.reknopka{
+    width: Hug (127px)px;
+    height: Hug (40px)px;
+    top: 28px;
+    left: 577px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 12px; 
+    color: #ffffff;     
+    background-color:#D3A562 ;
+    border-style: hidden;
 }
