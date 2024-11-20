@@ -523,3 +523,48 @@ margin-top: 35px;
     background-color:#D3A562 ;
     border-style: hidden;
 }
+
+@media  screen and (max-width:605px)
+
+{
+    body{
+        background-color: rgba(255, 255, 255, 1);
+        
+    
+        scroll-behavior:auto;
+    }
+
+    .container{
+        margin: 10px;
+        max-width: 568px;
+    }
+    header{
+        margin-top:20px;
+        margin-left:100px;
+    }
+    .crnavbar{
+        margin-left: 80px;
+        justify-content: center;
+        display: flex;
+        max-width: 472px fixed;
+        height: 46px;
+        gap:20px;
+    }
+
+    .ctitles{
+        visibility: hidden;
+    }
+
+    .cricons{
+        margin: 10px;
+        display: flex;
+        img{
+            width: 80px;
+            height: 100px;
+        }
+    }
+    .iconsbtn{
+        width:95px;
+        height: 100px;
+    }
+}
